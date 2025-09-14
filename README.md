@@ -62,13 +62,4 @@ Using real-world data 🌐, I cleaned, analyzed, and visualized global power pla
 - 🌟 Build a **dynamic Power BI dashboard** for smart visual insights  
 - 🔗 Connect it with **SQL** for real-time, interactive data exploration  
 
----
 
-## 👩‍💻 About Me
-
-**Devika Singh**  
-📧 devikasingh87557@gmail.com  
-📍 Haridwar, Uttarakhand  
-🎯 Passionate about Data, Tech, and Visualization  
-
----
